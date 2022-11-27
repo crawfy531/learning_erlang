@@ -17,8 +17,6 @@ In my exploration to understanding the Erlang language I wrote a program that de
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 * when making permutations of binary, make the size of each of the permutation length adjustable (not just being limited to a length of nine)
 * making a binary decoding key for the whole alphabet
 * make a function that will convert a string of letters to a list of binary
